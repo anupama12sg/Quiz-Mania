@@ -16,23 +16,25 @@ const AboutUs = () => {
         <h3>Empowering Learning Through Interactive Quizzes</h3>
         Quiz Mania is a dedicated platform where teachers create engaging quizzes for students across cutting-edge technology topics. From blockchain fundamentals to data structures and C programming, we bridge the gap between theoretical knowledge and practical understanding.
       </p>
-      <h3>What We Do</h3>
+      <h3>What We Do?</h3>
       <p>
-        Our platform enables educators to design comprehensive quizzes that challenge and inspire students in today's most relevant tech subjects. Whether you're mastering algorithms, exploring decentralized systems, or diving deep into programming concepts, Quiz Mania provides the tools for meaningful assessment and learning.
-        Our Vision
-        We're building the future of educational technology. Our roadmap includes:
+        Our platform enables educators to design comprehensive quizzes that challenge and inspire students in today's most relevant tech subjects. Whether you're mastering algorithms, exploring decentralized systems, or diving deep into programming concepts, Quiz Mania provides the tools for meaningful assessment and learning.</p>
+      <h3>Our Vision</h3>
+      <p>We're building the future of educational technology. Our roadmap includes:</p>
+      <ul>
+        <li>Blockchain Integration: Taking quizzes on-chain for transparent, verifiable learning credentials</li>
+        <li>AI-Powered Learning: Integrating intelligent bots to enhance the quiz experience and provide personalized learning paths</li>
+      </ul>
 
-        Blockchain Integration: Taking quizzes on-chain for transparent, verifiable learning credentials
-        AI-Powered Learning: Integrating intelligent bots to enhance the quiz experience and provide personalized learning paths
+      <h3>Why Quiz Mania?</h3>
+      <ul>
+        <li>Teacher-Created Content: Quality quizzes designed by educators who understand student needs</li>
+        <li>Tech-Focused: Specialized in emerging technologies and computer science fundamentals</li>
+        <li>Innovation-Driven: Constantly evolving with new technologies to enhance learning</li>
+      </ul>
 
-        Why Quiz Mania?
-
-        Teacher-Created Content: Quality quizzes designed by educators who understand student needs
-        Tech-Focused: Specialized in emerging technologies and computer science fundamentals
-        Innovation-Driven: Constantly evolving with new technologies to enhance learning
-
-        Join us in revolutionizing how students learn and teachers teach in the digital age.</p>
-    </div>
+      <p>Join us in revolutionizing how students learn and teachers teach in the digital age.</p>
+    </div >
   )
 }
 
