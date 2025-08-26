@@ -1,5 +1,5 @@
 import React from 'react'
-import mail_logo from '../../assets/mail-logo.webp'
+import mail_logo from '../../assets/mail_logo.webp'
 import password from '../../assets/password.png'
 import person from '../../assets/person.png'
 
@@ -10,7 +10,20 @@ const SignUp = () => {
                 <div className='text'>Sign Up</div>
                 <div className='underline'></div>
             </div>
-            <div className='inputs'></div>
+            <div className='inputs'>
+                <div className='input'>
+                    <img src={person} alt="" />
+                    <input type="text" />
+                </div>
+                <div className='input'>
+                    <img src={mail_logo} alt="" />
+                    <input type="email" />
+                </div>
+                <div className='input'>
+                    <img src={password} alt="" />
+                    <input type="password" />
+                </div>
+            </div>
         </div>
     )
 }

@@ -8,6 +8,7 @@ const Teacher = () => {
             <img src={teacher} alt="teacher logo" />
             <nav>
                 <ul><Link to="/">Home</Link></ul>
+                <ul><Link to="/teacher/signup">Sign Up/ Login</Link></ul>
                 <ul><Link to="/about">About Us</Link></ul>
             </nav>
 

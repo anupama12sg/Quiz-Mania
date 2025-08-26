@@ -33,7 +33,7 @@ const AboutUs = () => {
         <li>Innovation-Driven: Constantly evolving with new technologies to enhance learning</li>
       </ul>
 
-      <p>Join us in revolutionizing how students learn and teachers teach in the digital age.</p>
+      <p><i>Join us in revolutionizing how students learn and teachers teach in the digital age.</i></p>
     </div >
   )
 }
