@@ -8,6 +8,7 @@ const SignUp = () => {
     return (
         <>
         <ul><Link to={"/teacher"}>Teacher</Link></ul>
+         <ul><Link to={"/addquestion"}>Add Question</Link></ul>
             <div className='signup-container'>
                 <div className='header'>
                     <div className='text'>Sign Up</div>
