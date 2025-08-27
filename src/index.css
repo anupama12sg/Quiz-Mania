@@ -29,3 +29,20 @@
     background: #fff;
     border-radius: 9px;
 }
+
+.inputs {
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+input{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 480px;
+    height: 80px;
+    background: #fff;
+    border-radius: 6px;
+}
