@@ -1,3 +1,12 @@
+# Quiz Mania:
+
+A quiz website for teachers and students to give quiz on various topics like blockchain and data structures.
+
+# To be done:
+
+1. Web3 Integration: To store the results of the quiz completed by students.
+2. AI Integration: AI for adding questions in teacher section.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
