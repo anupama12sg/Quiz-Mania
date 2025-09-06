@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 .signup-container {
     height: 100vh;
     background: linear-gradient(rgb(70, 119, 232), rgb(226, 234, 81));
