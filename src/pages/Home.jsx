@@ -10,10 +10,10 @@ const Home = () => {
             <aside className='w-64 bg-gray-100 p-6 space-y-6 shadow-md'>
                 <h2 className='text-xl font-bold mb-6'>Quiz Mania</h2>
                 <nav className='flex flex-col space-y-4'>
-                    <ul><Link to="/">Home</Link></ul>
-                    <ul><Link to="/teacher">Teacher</Link></ul>
-                    <ul><Link to="/student">Student</Link></ul>
-                    <ul><Link to="/about">About Us</Link></ul>
+                    <ul><Link to="/" className='hover:text-blue-600 font-medium'>Home</Link></ul>
+                    <ul><Link to="/teacher" className='hover:text-blue-600 font-medium'>Teacher</Link></ul>
+                    <ul><Link to="/student" className='hover:text-blue-600 font-medium'>Student</Link></ul>
+                    <ul><Link to="/about" className='hover:text-blue-600 font-medium'>About Us</Link></ul>
                 </nav>
             </aside>
 
