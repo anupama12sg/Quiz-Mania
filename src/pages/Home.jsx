@@ -20,7 +20,7 @@ const Home = () => {
             {/*Main Content*/}
             <main className='flex-1 p-12 flex flex-col items-center justify-center'>
                 <img src={homeLogo} alt="home page logo" className='w-80 mb-8 rounded-xl shadow-lg'/>
-                <h1 className='text-3xl font-bold mb-4 text-center'>Quiz Mania: Testing you knowledge begins here!</h1>
+                <h1 className='text-3xl font-bold mb-4 text-center'>Quiz Mania: Testing your knowledge begins here!</h1>
                 <h3 className='text-lg text-gray-600 text-center max-w-2xl'>Finding difficulty in topics like Blockchain Data Structures. Your worry ends here. Practice quizzes and clear your concepts.</h3>
             </main>
         </div>
