@@ -6,7 +6,7 @@ const AboutUs = () => {
   return (
     <div className='flex min-h-screen text-gray-900'>
       {/*Sidebar*/}
-      <aside className='w-64 bg-gray-100 p-6 sppace-y-6 shadow-md'>
+      <aside className='fixed top-0 left-0 h-screen w-64 bg-white shadow-lg z-50 flex flex-col p-6'>
         <h2 className='text-xl font-bold mb-6'>Quiz Mania</h2>
         <nav className='flex flex-col space-y-4'>
           <ul><Link to="/" className='hover:text-blue-600 font-medium'>Home</Link></ul>
