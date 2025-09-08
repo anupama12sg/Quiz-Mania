@@ -14,7 +14,7 @@ const Student = () => {
                 </nav>
             </aside>
 
-            <main className='flex-1 p-12 flex flex-col items-center justify-center'>
+            <main className='flex-1 p-12 flex flex-col items-center justify-center ml-64'>
                 <img src={student} alt="student logo" className='w-80 mb-8 rounded-xl shadow-lg' />
             </main>
         </div>
