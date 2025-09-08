@@ -16,7 +16,7 @@ const AboutUs = () => {
       </aside>
 
       {/*Main Content*/}
-      <main className='flex-1 p-12 flex flex-col  items-center justify-center max-w-4xl mx-auto '>
+      <main className='flex-1 p-12 flex flex-col items-center justify-center max-w-4xl mx-auto ml-64 '>
         <img src={topics} alt="About us logo" className='w-80 mb-8 rounded-xl shadow-lg' />
         <h2 className='text-3xl font-bold mb-4 text-center'>About Quiz Mania</h2>
 
