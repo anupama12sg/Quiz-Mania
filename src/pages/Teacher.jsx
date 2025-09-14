@@ -20,9 +20,13 @@ const Teacher = () => {
             <main className='flex-1 p-12 flex flex-col items-center justify-center ml-64'>
                 <img src={teacher} alt="teacher logo" className='w-80 mb-8 rounded-xl shadow-lg' />
                 <h2 className='text-3xl font-bold mb-4 text-center'>Teacher</h2>
-                <p className='text-lg text-gray-700 leading-relaxed text-justify mb-8'>
-                    Teacher's can add a topic & add Q&A for the same after they login/signup.
-                </p>
+                <ul className='list-disc list-inside text-lg text-gray-700 leading-relaxed mb-8 mt-2'>
+                    <p>Teachers can do the following:</p>
+                    <li> 
+                        <span className='font-medium'>Add a topic & Q&A for the same.</span></li>
+                    <li>
+                        <span className='font-medium'>Make use of the AI Chatbot to find and generate Q&A at different dificulty levels.</span></li>
+                </ul>
             </main>
         </div>
     )
