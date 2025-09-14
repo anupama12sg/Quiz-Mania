@@ -20,9 +20,9 @@ const Student = () => {
                 <ul className='list-disc list-inside text-lg text-gray-700 leading-relaxed mb-8 mt-2'>
                     <p>Students can do the following:</p>
                     <li> 
-                        <span className='font-medium'>Select a topic & attempt the quiz</span></li>
+                        <span className='font-medium'>Select a topic & attempt the quiz.</span></li>
                     <li>
-                        <span className='font-medium'>Scores to be stored on- chain which can be accessed by the students</span></li>
+                        <span className='font-medium'>Scores to be stored on- chain which can be accessed by the students.</span></li>
                 </ul>
 
             </main>
